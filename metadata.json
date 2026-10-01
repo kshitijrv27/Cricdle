@@ -1,0 +1,6 @@
+{
+  "name": "Cricdle - International Cricket Wordle",
+  "description": "Guess the mystery international cricket player in 6 tries using Test, ODI, and T20I career runs and wickets feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

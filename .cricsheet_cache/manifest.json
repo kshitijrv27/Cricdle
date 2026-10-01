@@ -1,0 +1,8 @@
+{
+  "pipeline": "Cricsheet Automated Aggregator",
+  "cricsheetUrl": "https://cricsheet.org/",
+  "status": "ready",
+  "filterConstraint": "debutYear >= 1960",
+  "lastRun": "2026-10-01T11:35:10.880Z",
+  "totalSupportedPlayers": "All 18,554 registered players"
+}
